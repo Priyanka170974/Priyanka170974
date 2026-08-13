@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F5CFF&height=230&section=header&text=PRIYANKA%20JAIN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%2FAI%20STUDENT&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F5CFF&height=240&section=header&text=PRIYANKA%20JAIN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%2FAI%20STUDENT&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Ideas+into+Real+Applications;Full+Stack+Development+Enthusiast;C+%7C+Java+%7C+JavaScript;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+MySQL;Learn+%E2%80%A2+Build+%E2%80%A2+Improve"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Ideas+into+Real+Applications;Full+Stack+Development+Enthusiast;C+%7C+Java+%7C+JavaScript;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+MySQL;Learn+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve"/>
 
 <br><br>
 
@@ -22,11 +22,35 @@
 
 I'm a **3rd-year CSE/AI student at Arya College of Engineering** with a strong interest in **Full Stack Development and Software Engineering**.
 
-I enjoy transforming ideas into functional applications and working across the complete development process — from designing the frontend to building backend APIs and managing databases.
+I enjoy transforming ideas into functional applications and working across the complete development process — from creating user interfaces to developing backend APIs and managing databases.
 
-I'm currently focused on strengthening my skills in **C, Java, JavaScript, React, Node.js, Express.js, MongoDB and MySQL**, while continuously improving my programming fundamentals and problem-solving abilities.
+I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, Express.js, MongoDB and MySQL**, while continuously improving my programming fundamentals and problem-solving abilities.
 
-**My approach is simple: learn the technology, build something with it, understand how it works, and keep improving.**
+> **I believe the best way to learn technology is to build something meaningful with it.**
+
+---
+
+# ⚡ Quick Facts
+
+<div align="center">
+
+| 🎓 Education | 💻 Focus | 🧠 Strengthening | 🚀 Goal |
+|:---:|:---:|:---:|:---:|
+| CSE / AI | Full Stack Development | DSA & Problem Solving | Software Engineer |
+
+</div>
+
+<br>
+
+- 🎓 **3rd Year CSE/AI Student**
+- 💻 **Full Stack Development Enthusiast**
+- ☕ **Java Developer**
+- ⚡ **C Programmer**
+- ⚛️ **React Developer**
+- 🟢 **Node.js & Express.js**
+- 🗄️ **MongoDB & MySQL**
+- 🔧 **Git & GitHub**
+- 🚀 **Building real-world projects**
 
 ---
 
@@ -38,13 +62,13 @@ I'm currently focused on strengthening my skills in **C, Java, JavaScript, React
 <img src="https://skillicons.dev/icons?i=c,java,js" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -56,7 +80,7 @@ I'm currently focused on strengthening my skills in **C, Java, JavaScript, React
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🔧 Tools & Development
+### 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
@@ -73,6 +97,8 @@ I'm currently focused on strengthening my skills in **C, Java, JavaScript, React
 <img src="https://img.shields.io/badge/PROJECT-01-7F5CFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=for-the-badge"/>
 
+<br><br>
+
 ### **Learn • Challenge • Master**
 
 **An interactive coding quiz platform designed to make programming practice engaging, interactive and fun.**
@@ -85,13 +111,13 @@ I'm currently focused on strengthening my skills in **C, Java, JavaScript, React
 
 <br><br>
 
-| ✨ Feature | Description |
+| ✨ | Highlights |
 |:---:|:---|
 | 🎯 | Interactive coding questions |
 | 🧠 | Programming knowledge practice |
 | ⚡ | Fast & responsive interface |
-| 🎨 | Clean & engaging UI |
-| 🌐 | Deployed using GitHub Pages |
+| 🎨 | Clean and engaging UI |
+| 🌐 | Live GitHub Pages deployment |
 
 <br><br>
 
@@ -116,6 +142,8 @@ I'm currently focused on strengthening my skills in **C, Java, JavaScript, React
 <img src="https://img.shields.io/badge/PROJECT-02-7F5CFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JAVA-DESKTOP%20APP-ED8B00?style=for-the-badge"/>
 
+<br><br>
+
 ### **Simple • Interactive • Java Powered**
 
 **A desktop calculator application developed using Java AWT, demonstrating GUI components, event handling and arithmetic operations.**
@@ -128,7 +156,7 @@ I'm currently focused on strengthening my skills in **C, Java, JavaScript, React
 
 <br><br>
 
-| ✨ Feature | Description |
+| ✨ | Highlights |
 |:---:|:---|
 | 🧮 | Basic arithmetic operations |
 | 🖥️ | Java AWT graphical interface |
@@ -152,23 +180,23 @@ I'm currently focused on strengthening my skills in **C, Java, JavaScript, React
 <table>
 <tr>
 
-<td align="center" width="250">
+<td align="center" width="260">
 
 ### 🌐 Web Applications
 
-Interactive and responsive applications using modern frontend technologies.
+Responsive and interactive applications using modern frontend technologies.
 
 </td>
 
-<td align="center" width="250">
+<td align="center" width="260">
 
 ### ⚙️ Backend Systems
 
-REST APIs, server-side logic and application architecture.
+REST APIs, server-side logic and database-driven applications.
 
 </td>
 
-<td align="center" width="250">
+<td align="center" width="260">
 
 ### 🤖 AI + Development
 
@@ -209,15 +237,65 @@ Exploring practical applications combining AI and software development.
 
 ---
 
-# 🎯 Currently Learning
+# 🧭 My Development Journey
 
 <div align="center">
 
-**React** · **Node.js** · **Express.js** · **REST APIs** · **Authentication** · **MongoDB** · **MySQL** · **DSA** · **AI + Full Stack**
+### C Programming
 
-<br><br>
+⬇️
 
-I'm focusing on building **complete applications**, understanding frontend-backend communication, working with databases, and writing cleaner and more maintainable code.
+### Java & Object-Oriented Programming
+
+⬇️
+
+### Web Development
+
+⬇️
+
+### React & Modern Frontend
+
+⬇️
+
+### Node.js + Express.js
+
+⬇️
+
+### MongoDB + MySQL
+
+⬇️
+
+### Full Stack Development
+
+⬇️
+
+### AI + Full Stack 🚀
+
+</div>
+
+---
+
+# 🎯 Currently Exploring
+
+<div align="center">
+
+### ⚛️ React
+Building cleaner, reusable and interactive interfaces.
+
+### 🟢 Node.js + Express.js
+Developing REST APIs and backend applications.
+
+### 🔐 Authentication
+Understanding secure authentication and authorization.
+
+### 🗄️ Databases
+Improving my knowledge of MongoDB and MySQL.
+
+### 🧩 DSA
+Strengthening problem-solving and coding skills.
+
+### 🤖 AI + Full Stack
+Exploring how AI can be integrated into practical web applications.
 
 </div>
 
@@ -267,13 +345,13 @@ I'm focusing on building **complete applications**, understanding frontend-backe
 
 I'm working towards becoming a **strong Software / Full Stack Developer** by combining:
 
-**Programming + Problem Solving + Full Stack Development + AI**
+**Programming + Problem Solving + Development + AI**
 
 </div>
 
 ---
 
-# 🧠 My Developer Mindset
+# 🧠 My Developer Philosophy
 
 <div align="center">
 
@@ -281,7 +359,7 @@ I'm working towards becoming a **strong Software / Full Stack Developer** by com
 
 <br>
 
-> *"Don't just write code. Build something that solves a problem."*
+> **"Don't just write code. Build something that solves a problem."**
 
 </div>
 
@@ -321,7 +399,7 @@ I'm working towards becoming a **strong Software / Full Stack Developer** by com
 
 <div align="center">
 
-## ✨ Keep Building. Keep Learning. Keep Growing.
+# ✨ Keep Building. Keep Learning. Keep Growing.
 
 ### 🚀 Turning curiosity into code, and code into solutions.
 
