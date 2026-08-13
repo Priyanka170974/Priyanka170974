@@ -344,29 +344,7 @@ Building smarter applications
 
 # 🏆 Certification
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,100:7F5CFF&height=120&text=NPTEL%20CERTIFIED&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
-
-<br><br>
-
-## 📜 Introduction to Programming in C
-
-### **NPTEL Certification**
-
-<br>
-
-<img src="https://img.shields.io/badge/C%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Certified-NPTEL-7F5CFF?style=for-the-badge"/>
-
-<br><br>
-
-**Programming Fundamentals • C Language • Problem Solving**
-
-</div>
+**NPTEL:** Introduction to Programming in C
 
 ---
 
