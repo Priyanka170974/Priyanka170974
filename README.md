@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F5CFF&height=230&section=header&text=PRIYANKA%20JAIN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%2FAI&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F5CFF&height=230&section=header&text=PRIYANKA%20JAIN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CSE%2FAI%20STUDENT&descAlignY=60&descSize=18"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Ideas+into+Real+Applications;Full+Stack+Development+Enthusiast;C+%7C+Java+%7C+JavaScript;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+MySQL;Learn+%E2%80%A2+Build+%E2%80%A2+Improve"/>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Priyanka170974&label=PROFILE%20VIEWS&color=7F5CFF&style=for-the-badge"/>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Priyanka170974?tab=followers">
+<img src="https://img.shields.io/github/followers/Priyanka170974?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+</a>
 
 </div>
 
@@ -18,7 +24,7 @@ I'm a **3rd-year CSE/AI student at Arya College of Engineering** with a strong i
 
 I enjoy transforming ideas into functional applications and working across the complete development process — from designing the frontend to building backend APIs and managing databases.
 
-I'm currently focused on strengthening my skills in **Java, JavaScript, React, Node.js, Express.js, MongoDB and MySQL**, while also improving my programming fundamentals and problem-solving abilities.
+I'm currently focused on strengthening my skills in **C, Java, JavaScript, React, Node.js, Express.js, MongoDB and MySQL**, while continuously improving my programming fundamentals and problem-solving abilities.
 
 **My approach is simple: learn the technology, build something with it, understand how it works, and keep improving.**
 
@@ -26,19 +32,19 @@ I'm currently focused on strengthening my skills in **Java, JavaScript, React, N
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,java,js" />
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -50,7 +56,7 @@ I'm currently focused on strengthening my skills in **Java, JavaScript, React, N
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
@@ -58,46 +64,80 @@ I'm currently focused on strengthening my skills in **Java, JavaScript, React, N
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
+
+## 🧠 Code-Master-Quiz
 
 <div align="center">
 
-<a href="https://github.com/Priyanka170974/Code-Master-Quiz">
+<img src="https://img.shields.io/badge/PROJECT-01-7F5CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=for-the-badge"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F5CFF,100:00C2FF&height=150&text=CODE-MASTER-QUIZ&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+### **Learn • Challenge • Master**
 
-</a>
-
-### 🧠 Learn • Challenge • Master
-
-**An interactive coding quiz platform created to make programming practice more engaging, interactive and fun.**
+**An interactive coding quiz platform designed to make programming practice engaging, interactive and fun.**
 
 <br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=for-the-badge"/>
 
 <br><br>
 
-|  ✨  | Project Highlights                 |
-| :-: | :--------------------------------- |
-|  🎯 | Interactive coding questions       |
-|  🧠 | Programming knowledge practice     |
-|  ⚡  | Fast and responsive interface      |
-|  🎨 | Clean and engaging user experience |
-|  🌐 | Live deployment using GitHub Pages |
+| ✨ Feature | Description |
+|:---:|:---|
+| 🎯 | Interactive coding questions |
+| 🧠 | Programming knowledge practice |
+| ⚡ | Fast & responsive interface |
+| 🎨 | Clean & engaging UI |
+| 🌐 | Deployed using GitHub Pages |
 
-<br>
+<br><br>
 
 <a href="https://priyanka170974.github.io/Code-Master-Quiz/">
 <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Priyanka170974/Code-Master-Quiz">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧮 AWT Calculator
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT-02-7F5CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAVA-DESKTOP%20APP-ED8B00?style=for-the-badge"/>
+
+### **Simple • Interactive • Java Powered**
+
+**A desktop calculator application developed using Java AWT, demonstrating GUI components, event handling and arithmetic operations.**
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWT-GUI-7F5CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Desktop%20Application-00C2FF?style=for-the-badge"/>
+
+<br><br>
+
+| ✨ Feature | Description |
+|:---:|:---|
+| 🧮 | Basic arithmetic operations |
+| 🖥️ | Java AWT graphical interface |
+| 🖱️ | Interactive buttons & event handling |
+| ⚡ | Instant calculation results |
+
+<br><br>
+
+<a href="https://github.com/Priyanka170974/AWT-Calculator">
 <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -116,7 +156,7 @@ I'm currently focused on strengthening my skills in **Java, JavaScript, React, N
 
 ### 🌐 Web Applications
 
-Interactive and responsive applications with modern frontend technologies.
+Interactive and responsive applications using modern frontend technologies.
 
 </td>
 
@@ -132,7 +172,7 @@ REST APIs, server-side logic and application architecture.
 
 ### 🤖 AI + Development
 
-Exploring how AI can be integrated into practical software solutions.
+Exploring practical applications combining AI and software development.
 
 </td>
 
@@ -177,7 +217,7 @@ Exploring how AI can be integrated into practical software solutions.
 
 <br><br>
 
-I'm focusing on building **complete applications**, understanding how frontend and backend communicate, and writing cleaner and more maintainable code.
+I'm focusing on building **complete applications**, understanding frontend-backend communication, working with databases, and writing cleaner and more maintainable code.
 
 </div>
 
@@ -187,11 +227,17 @@ I'm focusing on building **complete applications**, understanding how frontend a
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NPTEL-Introduction%20to%20Programming%20in%20C-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-CERTIFIED-00599C?style=for-the-badge"/>
 
 <br><br>
 
-**Introduction to Programming in C**
+## 📜 Introduction to Programming in C
+
+**NPTEL Certification**
+
+<br>
+
+<img src="https://img.shields.io/badge/Programming-C-00599C?style=flat-square&logo=c&logoColor=white"/>
 
 </div>
 
@@ -211,7 +257,23 @@ I'm focusing on building **complete applications**, understanding how frontend a
 
 ---
 
-# 🧠 Developer Mindset
+# 🌱 What I'm Working Towards
+
+<div align="center">
+
+### **From writing code → to engineering solutions.**
+
+<br>
+
+I'm working towards becoming a **strong Software / Full Stack Developer** by combining:
+
+**Programming + Problem Solving + Full Stack Development + AI**
+
+</div>
+
+---
+
+# 🧠 My Developer Mindset
 
 <div align="center">
 
@@ -219,7 +281,7 @@ I'm focusing on building **complete applications**, understanding how frontend a
 
 <br>
 
-> **"Every project is another step towards becoming a better developer."**
+> *"Don't just write code. Build something that solves a problem."*
 
 </div>
 
@@ -233,13 +295,19 @@ I'm focusing on building **complete applications**, understanding how frontend a
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://leetcode.com/u/MCXH1ncUcC/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:priyankajpr06@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/Priyanka170974">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -249,16 +317,20 @@ I'm focusing on building **complete applications**, understanding how frontend a
 
 ---
 
+<br>
+
 <div align="center">
+
+## ✨ Keep Building. Keep Learning. Keep Growing.
+
+### 🚀 Turning curiosity into code, and code into solutions.
 
 <br>
 
-### ⭐ Thanks for visiting!
+**Thanks for visiting my profile! 💙**
 
-**Explore my projects • Check out my code • Let's build something meaningful**
+<br>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5CFF,100:00C2FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5CFF,100:00C2FF&height=130&section=footer"/>
 
 </div>
