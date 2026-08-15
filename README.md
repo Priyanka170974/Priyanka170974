@@ -172,30 +172,56 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 </div>
 
 ---
-## 🚀 Featured Projects
 
-### ⏱️ Stopwatch
 
-A modern and responsive stopwatch website built using **HTML, CSS & JavaScript**.
+## ⏱️ Stopwatch
 
-✨ Features:
-- Start / Pause / Reset
-- Lap Tracking
-- Clear Laps
-- Dark Mode
-- Responsive Design
-- Mountain-Themed UI
-- Glassmorphism Design
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT-03-7F5CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=for-the-badge"/>
+
+<br><br>
+
+### **Track • Record • Stay Focused**
+
+**A modern and responsive stopwatch website built using HTML, CSS & JavaScript.**
 
 <br>
 
-[🌐 Live Demo](https://priyanka170974.github.io/StopwatchWebiste/)
-&nbsp;&nbsp;|&nbsp;&nbsp;
-[💻 Source Code](https://github.com/Priyanka170974/StopwatchWebiste)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br><br>
+
+| ✨ | Highlights |
+|:---:|:---|
+| ⏱️ | Start / Pause / Reset |
+| 🏁 | Lap Tracking |
+| 🗑️ | Clear Lap History |
+| 🌙 | Dark Mode |
+| 📱 | Responsive Design |
+| 🏔️ | Mountain-Themed Interface |
+| 💎 | Glassmorphism UI |
 
 <br><br>
 
 <img src="https://raw.githubusercontent.com/Priyanka170974/StopwatchWebiste/main/assets/stopwatch-preview.png" alt="Stopwatch Website Preview" width="800">
+
+<br><br>
+
+<a href="https://priyanka170974.github.io/StopwatchWebiste/" target="_blank">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Priyanka170974/StopwatchWebiste" target="_blank">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 # 💡 What I Love Building
