@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Ideas+into+Real+Applications;Full+Stack+Development+Enthusiast;C+%7C+Java+%7C+JavaScript;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+MySQL;Learn+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve"/>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Priyanka170974&label=PROFILE%20VIEWS&color=7F5CFF&style=for-the-badge"/>
 
@@ -97,7 +97,7 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 <img src="https://img.shields.io/badge/PROJECT-01-7F5CFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 ### **Learn • Challenge • Master**
 
@@ -109,7 +109,7 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<br><br>
+<br>
 
 | ✨ | Highlights |
 |:---:|:---|
@@ -119,7 +119,7 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 | 🎨 | Clean and engaging UI |
 | 🌐 | Live GitHub Pages deployment |
 
-<br><br>
+<br>
 
 <a href="https://priyanka170974.github.io/Code-Master-Quiz/">
 <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -154,7 +154,7 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 <img src="https://img.shields.io/badge/AWT-GUI-7F5CFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Desktop%20Application-00C2FF?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 | ✨ | Highlights |
 |:---:|:---|
@@ -191,7 +191,7 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<br><br>
+<br>
 
 | ✨ | Highlights |
 |:---:|:---|
