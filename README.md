@@ -172,8 +172,6 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 </div>
 
 ---
-
-
 ## ⏱️ Stopwatch
 
 <div align="center">
@@ -202,12 +200,8 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 | 🗑️ | Clear Lap History |
 | 🌙 | Dark Mode |
 | 📱 | Responsive Design |
-| 🏔️ | Mountain-Themed Interface |
-| 💎 | Glassmorphism UI |
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Priyanka170974/StopwatchWebiste/main/assets/stopwatch-preview.png" alt="Stopwatch Website Preview" width="800">
+| 🏔️ | Mountain-Themed UI |
+| 💎 | Glassmorphism Design |
 
 <br><br>
 
@@ -215,7 +209,7 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Priyanka170974/StopwatchWebiste" target="_blank">
 <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -223,6 +217,7 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 
 </div>
 
+---
 ---
 # 💡 What I Love Building
 
