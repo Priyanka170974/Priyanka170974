@@ -142,7 +142,7 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 <img src="https://img.shields.io/badge/PROJECT-02-7F5CFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JAVA-DESKTOP%20APP-ED8B00?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 ### **Simple • Interactive • Java Powered**
 
@@ -163,7 +163,7 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 | 🖱️ | Interactive buttons & event handling |
 | ⚡ | Instant calculation results |
 
-<br><br>
+<br>
 
 <a href="https://github.com/Priyanka170974/AWT-Calculator">
 <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -179,7 +179,7 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 <img src="https://img.shields.io/badge/PROJECT-03-7F5CFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 ### **Track • Record • Stay Focused**
 
