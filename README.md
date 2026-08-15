@@ -172,7 +172,32 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 </div>
 
 ---
+## 🚀 Featured Projects
 
+### ⏱️ Stopwatch
+
+A modern and responsive stopwatch website built using **HTML, CSS & JavaScript**.
+
+✨ Features:
+- Start / Pause / Reset
+- Lap Tracking
+- Clear Laps
+- Dark Mode
+- Responsive Design
+- Mountain-Themed UI
+- Glassmorphism Design
+
+<br>
+
+[🌐 Live Demo](https://priyanka170974.github.io/StopwatchWebiste/)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+[💻 Source Code](https://github.com/Priyanka170974/StopwatchWebiste)
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Priyanka170974/StopwatchWebiste/main/assets/stopwatch-preview.png" alt="Stopwatch Website Preview" width="800">
+
+---
 # 💡 What I Love Building
 
 <div align="center">
