@@ -172,6 +172,57 @@ I'm currently strengthening my skills in **C, Java, JavaScript, React, Node.js, 
 </div>
 
 ---
+
+## 🎟️ EventFlow — Event Registration & Smart Check-in
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PROJECT-04-7F5CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=for-the-badge"/>
+
+<br>
+
+### **Register • Manage • Check-in**
+
+**A full-stack event registration and smart check-in platform designed for managing events, registrations and attendee verification.**
+
+<br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<br>
+
+|  ✨  | Highlights                              |
+| :-: | :-------------------------------------- |
+| 🎟️ | Event registration & ticket generation  |
+|  📊 | Organizer event management dashboard    |
+|  🔐 | Authentication & role-based access      |
+|  📱 | Smart ticket verification & check-in    |
+|  🚫 | Event capacity management               |
+|  📈 | Live registration & check-in statistics |
+| 🗄️ | MongoDB database integration            |
+|  ☁️ | Deployed frontend & backend             |
+
+<br>
+
+<a href="https://event-registration-smart-checkin.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+      
+
+<a href="https://github.com/Priyanka170974/Event-Registration-Smart-Checkin">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 ## ⏱️ Stopwatch
 
 <div align="center">
@@ -256,55 +307,7 @@ Exploring practical applications combining AI and software development.
 </div>
 
 ---
-## 🎟️ EventFlow — Event Registration & Smart Check-in
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROJECT-04-7F5CFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-LIVE-00C853?style=for-the-badge"/>
-
-<br>
-
-### **Register • Manage • Check-in**
-
-**A full-stack event registration and smart check-in platform designed for managing events, registrations and attendee verification.**
-
-<br>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-
-<br>
-
-|  ✨  | Highlights                              |
-| :-: | :-------------------------------------- |
-| 🎟️ | Event registration & ticket generation  |
-|  📊 | Organizer event management dashboard    |
-|  🔐 | Authentication & role-based access      |
-|  📱 | Smart ticket verification & check-in    |
-|  🚫 | Event capacity management               |
-|  📈 | Live registration & check-in statistics |
-| 🗄️ | MongoDB database integration            |
-|  ☁️ | Deployed frontend & backend             |
-
-<br>
-
-<a href="https://event-registration-smart-checkin.vercel.app/">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-      
-
-<a href="https://github.com/Priyanka170974/Event-Registration-Smart-Checkin">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 # 📊 GitHub Analytics
 
