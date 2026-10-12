@@ -1,283 +1,190 @@
-# PRIYANKA JAIN
-### Engineering Dashboard · `PJ / 001`
+# `pj/engineering`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=071426&text=ENGINEERING%20IN%20MOTION&fontColor=58E6FF&fontSize=28&animation=fadeIn" width="100%" alt="Engineering in Motion"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=080F1D&text=PRIYANKA%20JAIN&fontSize=48&fontColor=EAF8FF&animation=fadeIn&fontAlignY=42&desc=ENGINEERING%20BEYOND%20THE%20INTERFACE&descSize=13&descColor=53DFFF&descAlignY=67" width="100%" alt="Priyanka Jain — Engineering Beyond the Interface"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Priyanka170974">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/priyanka-jain-1b8978339">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/MCXH1ncUcC/">LeetCode</a>
 </p>
 
 <p align="center">
   <b>Computer Science & AI Student</b><br/>
-  Full-Stack Development · Data Flow · Application Engineering
-</p>
-
-<p align="center">
-  <a href="https://github.com/Priyanka170974">GitHub Profile</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/priyanka-jain-1b8978339">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="https://leetcode.com/u/MCXH1ncUcC/">LeetCode</a>
+  Full-Stack Development · Application Design · Problem Solving
 </p>
 
 ---
 
-<table>
-<tr>
-<td colspan="2">
+### 01 — A little about me
 
-### SYSTEM OVERVIEW
+I’m a Computer Science and AI student interested in building applications that combine thoughtful interfaces with reliable backend logic.
 
-`IDENTITY: PRIYANKA.JAIN`  
-`DOMAIN: COMPUTER SCIENCE / AI`  
-`FOCUS: FULL-STACK DEVELOPMENT`  
-`APPROACH: DESIGN → BUILD → TEST → REFINE`
+I enjoy understanding how systems work end to end — how a user action becomes an API request, how data is processed and stored, and how the result becomes a useful experience.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Currently focused on strengthening my full-stack development skills through hands-on projects and continuous learning.
 
-**01 / APPLICATIONS**
+### 02 — Technical toolkit
 
-Building usable interfaces and complete application workflows.
-
-</td>
-<td width="50%">
-
-**02 / ENGINEERING**
-
-Connecting APIs, databases, validation, and user experiences.
-
-</td>
-</tr>
-</table>
-
-## `01` — Technology Console
-
-<table>
-<tr><td><b>LANGUAGES</b></td><td>C · Java · JavaScript</td></tr>
-<tr><td><b>FRONTEND</b></td><td>HTML · CSS · React · Vite</td></tr>
-<tr><td><b>BACKEND</b></td><td>Node.js · Express.js · REST APIs</td></tr>
-<tr><td><b>DATABASES</b></td><td>MongoDB · Mongoose · MySQL</td></tr>
-<tr><td><b>TOOLS</b></td><td>Git · GitHub · VS Code</td></tr>
-<tr><td><b>CONCEPTS</b></td><td>JWT · Role-Based Access · CRUD · API Integration</td></tr>
-</table>
+| Area | Technologies |
+|---|---|
+| Languages | C, Java, JavaScript |
+| Frontend | HTML, CSS, React, Vite |
+| Backend | Node.js, Express.js, REST APIs |
+| Databases | MongoDB, Mongoose, MySQL |
+| Tools | Git, GitHub, VS Code |
+| Concepts | JWT authentication, role-based access, CRUD, API integration |
 
 ---
 
-## `02` — Application Control Center
+### 03 — Selected work
 
-### `01 / GITPULSE`
-**Repository Analytics · MERN Stack**
+#### 01 / GitPulse
+**Repository analytics dashboard**
 
-A dashboard that transforms GitHub repository information into useful analytics and contributor insights.
+A MERN application that brings GitHub repository information into a structured dashboard with repository metrics and contributor insights.
 
 ```mermaid
 flowchart LR
-    A(["Developer"]) --> B["React Dashboard"]
-    B --> C["Express API"]
-    C --> D["GitHub REST API"]
-    C <--> E[("MongoDB")]
-    D --> F["Normalize Data"]
-    F --> G["Build Analytics"]
-    G --> H["Dashboard Response"]
-    H --> B
+    A([User]) --> B[React UI]
+    B --> C[Express API]
+    C --> D[GitHub API]
+    C <--> E[(MongoDB)]
+    D --> F[Process Data]
+    F --> G[Analytics Dashboard]
+    G --> B
 
-    classDef node fill:#0D2034,stroke:#35D9FF,color:#FFFFFF
-    classDef core fill:#102B49,stroke:#35D9FF,color:#FFFFFF
-    class A,E node
-    class B,C,D,F,G,H core
+    style A fill:#0B1728,stroke:#53DFFF,color:#FFFFFF
+    style B fill:#10263D,stroke:#53DFFF,color:#FFFFFF
+    style C fill:#10263D,stroke:#53DFFF,color:#FFFFFF
+    style D fill:#10263D,stroke:#53DFFF,color:#FFFFFF
+    style E fill:#0B1728,stroke:#53DFFF,color:#FFFFFF
+    style F fill:#10263D,stroke:#53DFFF,color:#FFFFFF
+    style G fill:#0B1728,stroke:#53DFFF,color:#FFFFFF
 ```
 
-**System capabilities**
-- GitHub repository data integration.
-- Language and contributor insights.
-- Commit activity and dashboard metrics.
-- JWT-based authentication.
-- MongoDB-backed user and application data.
+- GitHub API integration
+- Repository language and contributor insights
+- Commit activity and analytics
+- JWT-based authentication
+- MongoDB-backed application data
 
-<table>
-<tr><td><b>FRONTEND</b></td><td>React · Vite</td></tr>
-<tr><td><b>BACKEND</b></td><td>Node.js · Express.js</td></tr>
-<tr><td><b>DATA</b></td><td>MongoDB · Mongoose</td></tr>
-</table>
+**Stack:** React · Vite · Node.js · Express.js · MongoDB · Mongoose
 
-<p>
-<a href="https://github.com/Priyanka170974/GitPulse">↗ EXPLORE SOURCE CODE</a>
-</p>
+[View source code →](https://github.com/Priyanka170974/GitPulse)
 
 ---
 
-### `02 / EVENTFLOW`
-**Event Registration · Smart Check-in**
+#### 02 / EventFlow
+**Event registration & smart check-in**
 
-An event management platform for registration, digital ticketing, and attendee verification.
+An event management platform for handling registrations, generating digital tickets, and validating attendee check-ins.
 
 ```mermaid
 flowchart TD
-    A(["Select Event"]) --> B["Submit Registration"]
-    B --> C{"Request Valid?"}
-    C -- No --> X["Return Error"]
-    C -- Yes --> D{"Already Registered?"}
+    A([Choose Event]) --> B[Register]
+    B --> C{Valid Request?}
+    C -- No --> X[Show Error]
+    C -- Yes --> D{Duplicate Registration?}
     D -- Yes --> X
-    D -- No --> E{"Capacity Available?"}
+    D -- No --> E{Capacity Available?}
     E -- No --> X
-    E -- Yes --> F[("Save Registration")]
-    F --> G["Generate Ticket + QR"]
-    G --> H["Scan QR / Enter Ticket ID"]
-    H --> I{"Ticket Valid and Unused?"}
-    I -- No --> J["Reject Check-in"]
-    I -- Yes --> K["Record Check-in"]
-    K --> L["Refresh Event Statistics"]
+    E -- Yes --> F[(Save Registration)]
+    F --> G[Generate QR Ticket]
+    G --> H[Scan Ticket]
+    H --> I{Valid and Unused?}
+    I -- No --> J[Reject Check-in]
+    I -- Yes --> K[Record Check-in]
+    K --> L[Update Statistics]
 
-    classDef node fill:#0D2034,stroke:#35D9FF,color:#FFFFFF
-    classDef decision fill:#102B49,stroke:#35D9FF,color:#FFFFFF
-    class A,F,G,K,L node
-    class C,D,E,I decision
+    style A fill:#0B1728,stroke:#53DFFF,color:#FFFFFF
+    style F fill:#0B1728,stroke:#53DFFF,color:#FFFFFF
+    style G fill:#10263D,stroke:#53DFFF,color:#FFFFFF
+    style K fill:#10263D,stroke:#53DFFF,color:#FFFFFF
+    style L fill:#0B1728,stroke:#53DFFF,color:#FFFFFF
 ```
 
-**System capabilities**
-- Organizer and volunteer roles.
-- Event creation and management.
-- Registration capacity and duplicate checks.
-- QR ticket generation and PDF support.
-- Camera scanning and manual ticket lookup.
-- Check-in validation and event statistics.
+- Organizer and volunteer roles
+- Event creation and management
+- Registration capacity and duplicate checks
+- QR ticket generation and PDF support
+- QR scanning and manual ticket lookup
+- Check-in validation and event statistics
 
-**STACK:** React · Node.js · Express.js · MongoDB · Mongoose · JWT
+**Stack:** React · Node.js · Express.js · MongoDB · Mongoose · JWT
 
-<p>
-<a href="https://github.com/Priyanka170974/Event-Registration-Smart-Checkin">↗ SOURCE CODE</a> &nbsp; · &nbsp;
-<a href="https://event-registration-smart-checkin.vercel.app/">↗ LIVE DEMO</a>
-</p>
+[Source code →](https://github.com/Priyanka170974/Event-Registration-Smart-Checkin) · [Live demo →](https://event-registration-smart-checkin.vercel.app/)
 
 ---
 
-### `03 / CODE-MASTER-QUIZ`
-**Interactive Programming · Web Application**
+#### 03 / Code-Master-Quiz
+**Interactive programming quiz**
 
-A browser-based quiz experience featuring timed questions, score tracking, and interactive feedback.
+A browser-based quiz application featuring timed questions, score tracking, interactive feedback, and a leaderboard experience.
 
-```text
-QUESTION → USER RESPONSE → EVALUATION → SCORE → RESULT
-```
+**Highlights:** Countdown timer · Score tracking · Interactive feedback · Result experience
 
-- Programming questions across multiple languages.
-- Countdown timer and score tracking.
-- Interactive answer feedback.
-- Leaderboard and visual result effects.
+**Stack:** HTML · CSS · JavaScript
 
-**STACK:** HTML · CSS · JavaScript
-
-[↗ SOURCE CODE](https://github.com/Priyanka170974/Code-Master-Quiz) · [↗ LIVE DEMO](https://priyanka170974.github.io/Code-Master-Quiz/)
+[Source code →](https://github.com/Priyanka170974/Code-Master-Quiz) · [Live demo →](https://priyanka170974.github.io/Code-Master-Quiz/)
 
 ---
 
-### `04 / AWT CALCULATOR`
-**Java · Desktop Interface**
+#### 04 / AWT Calculator
+**Java desktop application**
 
-A desktop calculator demonstrating GUI components, arithmetic operations, and event-driven programming.
+A graphical calculator demonstrating Java AWT components, arithmetic operations, and event-driven programming.
 
-```text
-BUTTON EVENT → INPUT PROCESSING → CALCULATION → RESULT
-```
+**Highlights:** Desktop GUI · Button event handling · Arithmetic operations
 
-- Java AWT graphical interface.
-- Button event handling.
-- Arithmetic operations and result display.
+**Stack:** Java · AWT
 
-**STACK:** Java · AWT
-
-[↗ SOURCE CODE](https://github.com/Priyanka170974/AWT-Calculator)
+[Source code →](https://github.com/Priyanka170974/AWT-Calculator)
 
 ---
 
-### `05 / STOPWATCH`
-**Time-Control Interface · Frontend**
+#### 05 / Stopwatch
+**Time-control interface**
 
-A responsive stopwatch with time controls and lap tracking.
+A responsive stopwatch featuring time controls, lap tracking, and a dark-mode interface.
 
-```text
-READY → START → PAUSE / RESUME → RESET
-                    └── LAP TRACKING
-```
+**Highlights:** Start, pause and reset · Lap history · Responsive design · Dark mode
 
-- Start, pause, resume, and reset.
-- Lap tracking and lap-history controls.
-- Dark mode and responsive layout.
-- Mountain-inspired visual interface.
+**Stack:** HTML · CSS · JavaScript
 
-**STACK:** HTML · CSS · JavaScript
-
-[↗ SOURCE CODE](https://github.com/Priyanka170974/StopwatchWebiste) · [↗ LIVE DEMO](https://priyanka170974.github.io/StopwatchWebiste/)
+[Source code →](https://github.com/Priyanka170974/StopwatchWebiste) · [Live demo →](https://priyanka170974.github.io/StopwatchWebiste/)
 
 ---
 
-## `03` — Data Flow Laboratory
-
-The core of my engineering approach is understanding how data moves between components, how requests are validated, and how results reach the user.
+### 04 — How I approach engineering
 
 ```text
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│ USER INPUT  │ ──► │ API / LOGIC │ ──► │ DATA LAYER  │
-└─────────────┘     └─────────────┘     └─────────────┘
-                           │                    │
-                           ▼                    ▼
-                    ┌─────────────┐     ┌─────────────┐
-                    │ VALIDATION  │     │ PERSISTENCE │
-                    └─────────────┘     └─────────────┘
-                           │                    │
-                           └─────────┬──────────┘
-                                     ▼
-                            ┌────────────────┐
-                            │ USER RESPONSE  │
-                            └────────────────┘
+Understand the problem
+        ↓
+Break it into components
+        ↓
+Design the data flow
+        ↓
+Build and validate
+        ↓
+Test, debug, improve
 ```
 
-### Motion layer
+I believe good development comes from understanding the problem clearly, writing maintainable code, and improving through practical implementation.
 
-For a truly animated version, create a looping GIF of the GitPulse pipeline and upload it to this profile repository. Then replace the comment below with an image link pointing to the uploaded GIF.
+### 05 — What I'm working towards
 
-```html
-<!-- Replace YOUR_ANIMATED_GIF_URL with the URL of your uploaded GIF. -->
-<!--
-<p align="center">
-  <img src="YOUR_ANIMATED_GIF_URL"
-       width="100%"
-       alt="Animated GitPulse data pipeline"/>
-</p>
--->
-```
-
-The diagram above works as a static fallback. The GIF is optional and must be uploaded before enabling the animation.
-
----
-
-## `04` — Development Protocol
-
-```text
-01  UNDERSTAND THE PROBLEM
-          ↓
-02  BREAK IT INTO COMPONENTS
-          ↓
-03  DESIGN THE DATA FLOW
-          ↓
-04  IMPLEMENT & VALIDATE
-          ↓
-05  TEST, DEBUG, ITERATE
-```
-
-I focus on strengthening my fundamentals through practical projects, debugging, and continuous improvement.
-
-## `05` — Current Direction
-
-- Improving full-stack development fundamentals.
-- Practising data structures and algorithms.
-- Strengthening API and database design.
-- Building practical portfolio projects.
+- Stronger full-stack development fundamentals
+- Consistent data structures and algorithms practice
+- Better API design and database modelling
+- Building practical projects with clear, useful workflows
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=35D9FF" width="100%" alt="Cyan divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=53DFFF" width="100%" alt="Cyan divider"/>
   <br/><br/>
-  <b>ENGINEER THE LOGIC. DESIGN THE EXPERIENCE.</b><br/>
-  <sub>PRIYANKA JAIN · END OF TRANSMISSION</sub>
+  <b>Thoughtful design. Reliable logic. Continuous growth.</b><br/>
+  <sub>PRIYANKA JAIN · BUILT ONE ITERATION AT A TIME</sub>
 </p>
