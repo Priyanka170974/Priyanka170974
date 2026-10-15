@@ -1,360 +1,175 @@
- <div align="center">
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=PRIYANKA%20JAIN&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Curious%20Mind.%20Thoughtful%20Code.%20Useful%20Software.&descAlignY=60&descSize=16&color=0:25143D,50:5B3A8E,100:FF8A65" width="100%" alt="Priyanka Jain profile banner"/>`{=html}
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=PRIYANKA%20JAIN&fontSize=58&fontColor=00F5D4&stroke=00F5D4&strokeWidth=1&animation=fadeIn&color=0:10152B,100:241447&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL%20STACK%20%7C%20AI&descSize=16&descAlignY=70" width="100%"/>
+### CSE & AI Student · Full-Stack Developer · Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=700&color=00F5D4&center=true&vCenter=true&width=800&lines=ENGINEERING+SYSTEMS%2C+NOT+JUST+SCREENS;From+API+Design+to+Database+Architecture;Building+GitPulse+%7C+Repository+Intelligence;Learn+the+Logic.+Build+the+System." />
+*I like understanding what happens behind the screen --- from a user's
+click to the data that makes it work.*
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20code-25143D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka170974)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-jain-1b8978339)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MCXH1ncUcC/)
+:::
 
-<a href="https://github.com/Priyanka170974">
-<img src="https://img.shields.io/badge/GitHub-Priyanka170974-10152B?style=for-the-badge&logo=github&logoColor=00F5D4"/>
-</a>
-<a href="https://www.linkedin.com/in/priyanka-jain-1b8978339">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-10152B?style=for-the-badge&logo=linkedin&logoColor=00F5D4"/>
-</a>
-<a href="https://leetcode.com/u/MCXH1ncUcC/">
-<img src="https://img.shields.io/badge/LeetCode-Solve-10152B?style=for-the-badge&logo=leetcode&logoColor=00F5D4"/>
-</a>
+------------------------------------------------------------------------
 
-<br/><br/>
+## ✦ A little about my developer journey
 
-`CSE / AI STUDENT` &nbsp; `FULL STACK DEVELOPMENT` &nbsp; `SYSTEM THINKING`
+I'm a third-year **B.Tech Computer Science & Artificial Intelligence
+student at Arya College of Engineering**. I enjoy building projects that
+bring together clean interfaces, practical backend logic, APIs, and
+databases.
 
-</div>
+I'm learning to think beyond "does it work?" and ask better engineering
+questions:
 
----
+-   Is the user flow easy to understand?
+-   Is the API validating the right things?
+-   Is the data structured sensibly?
+-   What happens when something goes wrong?
+-   Can the application work reliably after deployment?
 
-## `01 / ENGINEERING IDENTITY`
+> **My current mindset:** Build small, understand deeply, improve
+> continuously.
 
-```text
-class Developer {
-    String name = "Priyanka Jain";
-    String education = "B.Tech CSE / AI";
-    String focus = "Full Stack Engineering";
-    String mindset = "Understand → Design → Build → Debug";
+## 🧪 What I'm building
 
-    String[] interests = {
-        "Backend Architecture",
-        "API Engineering",
-        "Database Systems",
-        "Developer Tools",
-        "AI-powered Applications"
-    };
-}
-```
+### GitPulse --- Repository Intelligence
 
-I'm a third-year Computer Science and Artificial Intelligence student at **Arya College of Engineering**, interested in how software systems work beyond the user interface.
+[![Explore
+GitPulse](https://img.shields.io/badge/OPEN%20PROJECT-GitPulse-5B3A8E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka170974/GitPulse)
 
-I enjoy building applications that connect frontend experiences, backend logic, APIs, authentication and databases into one functional system.
+A repository analytics project focused on making GitHub repository
+information easier to explore through a dashboard.
 
-My goal is to grow into a software engineer who can understand a problem, design a reliable solution and build it from the ground up.
+**Areas explored** - Repository metadata and activity insights -
+Language and contributor information - GitHub API integration - JWT
+authentication - MongoDB data layer
 
-> **My engineering principle:** A good interface attracts attention. A well-designed system earns trust.
+**System sketch**
 
----
-
-## `02 / CURRENTLY BUILDING`
-
-<div align="center">
-
-<a href="https://github.com/Priyanka170974/GitPulse">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=GITPULSE&fontSize=40&fontColor=00F5D4&color=0:10152B,100:241447&stroke=00F5D4&strokeWidth=1" width="100%"/>
-</a>
-
-### Repository Intelligence · GitHub API · MERN Stack
-
-**Turning repository activity into an understandable engineering dashboard.**
-
-</div>
-
-GitPulse is a repository analytics project designed to transform GitHub data into visual insights. Instead of manually exploring repository pages, users can connect repository data with a dashboard for understanding activity, contributors and project composition.
-
-#### System capabilities
-
-| Module | Engineering purpose |
-|---|---|
-| Repository Analytics | Organizes GitHub repository metadata into a dashboard |
-| Pulse Score | Presents a summary indicator for repository activity |
-| Language Insights | Visualizes the repository's programming-language composition |
-| Contributor Analytics | Displays available contributor information |
-| Commit Activity | Helps explore repository activity over time |
-| Clone Analytics | Displays traffic statistics when GitHub permissions allow access |
-| Repository Origin | Shows available repository origin or fork information |
-| Authentication | Uses JWT-based user authentication |
-| Data Layer | Uses MongoDB and Mongoose for application data |
-
-#### Architecture at a glance
-
-```mermaid
-flowchart TD
-    A[Developer] --> B[React + Vite UI]
-    B --> C[Express REST API]
-    C --> D[JWT Authentication]
-    C --> E[GitHub REST API]
-    C --> F[Mongoose Data Layer]
-    F --> G[(MongoDB Atlas)]
-    E --> H[Repository Insights]
+``` mermaid
+flowchart LR
+    A[Developer] --> B[React + Vite]
+    B --> C[Express API]
+    C --> D[GitHub API]
+    C --> E[JWT Auth]
+    C --> F[Mongoose]
+    F --> G[(MongoDB)]
+    D --> H[Repository Insights]
     H --> B
-    G --> B
 ```
 
-#### Technology profile
+### EventFlow --- Event Registration & Smart Check-in
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb,js,git,github"/>
-</p>
+A full-stack event workflow for organizers and attendees, from event
+creation to registration and check-in.
 
-<div align="center">
+-   Role-aware organizer and volunteer access
+-   JWT authentication and password hashing
+-   Event capacity and duplicate-registration checks
+-   QR ticket generation and PDF support
+-   QR scanning and manual ticket lookup
+-   Check-in validation and registration statistics
 
-<a href="https://github.com/Priyanka170974/GitPulse">
-<img src="https://img.shields.io/badge/EXPLORE%20SOURCE-00F5D4?style=for-the-badge&logo=github&logoColor=10152B"/>
-</a>
+[Live application](https://event-registration-smart-checkin.vercel.app/)
+· [Source
+code](https://github.com/Priyanka170974/Event-Registration-Smart-Checkin)
 
-</div>
+### More projects
 
----
+  ------------------------------------------------------------------------------------------------------------
+  Project                 What it explores        Links
+  ----------------------- ----------------------- ------------------------------------------------------------
+  **Code-Master-Quiz**    Timed coding quiz,      [Live](https://priyanka170974.github.io/Code-Master-Quiz/) ·
+                          interactive feedback,   [Code](https://github.com/Priyanka170974/Code-Master-Quiz)
+                          and browser-based       
+                          JavaScript              
 
-## `03 / SELECTED BUILDS`
+  **AWT Calculator**      Java GUI components,    [Code](https://github.com/Priyanka170974/AWT-Calculator)
+                          arithmetic logic, and   
+                          event handling          
 
-### ◈ EventFlow — Event Registration & Smart Check-in
+  **Stopwatch**           Start/pause/reset       [Live](https://priyanka170974.github.io/StopwatchWebiste/) ·
+                          controls, lap history,  [Code](https://github.com/Priyanka170974/StopwatchWebiste)
+                          and responsive UI       
+  ------------------------------------------------------------------------------------------------------------
 
-**Full-stack workflow engineering · MERN · QR-based verification**
+------------------------------------------------------------------------
 
-A platform for event creation, attendee registration, ticket generation and check-in. The project brings multiple event-management operations together behind a role-aware application.
+## 🧰 My toolkit
 
-**Engineering highlights**
-- Organizer and volunteer access controls
-- JWT authentication and password hashing
-- Event capacity and duplicate-registration checks
-- QR ticket generation and PDF support
-- Camera-based QR scanning with manual ticket lookup
-- Check-in validation and registration statistics
+::: {align="center"}
+`<img src="https://skillicons.dev/icons?i=c,java,js,html,css,react,vite,nodejs,express,mongodb,mysql,git,github,vscode" alt="Technology icons"/>`{=html}
+:::
 
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-444444?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-</p>
+  -----------------------------------------------------------------------
+  Area                                Technologies & concepts
+  ----------------------------------- -----------------------------------
+  **Languages**                       C, Java, JavaScript
 
-[↗ Live Application](https://event-registration-smart-checkin.vercel.app/) · [↗ Source Code](https://github.com/Priyanka170974/Event-Registration-Smart-Checkin)
+  **Frontend**                        HTML, CSS, React, Vite
 
----
+  **Backend**                         Node.js, Express.js, REST APIs
 
-### ◈ Code-Master-Quiz
+  **Data**                            MongoDB, Mongoose, MySQL
 
-**Interactive learning · Frontend engineering · JavaScript**
+  **Security**                        JWT, bcrypt, role-based
+                                      authorization
 
-A browser-based coding quiz that makes programming practice more engaging through timed questions, interactive feedback and a responsive interface.
+  **Tools**                           Git, GitHub, VS Code, IntelliJ IDEA
 
-- Programming questions and timed quiz sessions
-- Dynamic interface interactions
-- Score and feedback-oriented experience
-- Client-side logic with HTML, CSS and JavaScript
+  **Learning focus**                  Data structures, algorithms,
+                                      operating systems, AI-powered
+                                      applications
+  -----------------------------------------------------------------------
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
+## 🧭 How I turn an idea into a project
 
-[↗ Live Application](https://priyanka170974.github.io/Code-Master-Quiz/) · [↗ Source Code](https://github.com/Priyanka170974/Code-Master-Quiz)
+::: {align="center"}
+`UNDERSTAND` → `PLAN` → `DESIGN` → `BUILD` → `TEST` → `REFINE`
+:::
 
----
+I try to follow the complete journey instead of treating frontend,
+backend, and database work as separate islands. Debugging is part of the
+process: every issue is a chance to understand the system better.
 
-### ◈ AWT Calculator
+## 📈 GitHub, in snapshots
 
-**Java desktop development · GUI · Event handling**
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyanka170974&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub statistics"/>`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka170974&layout=compact&theme=midnight-purple&hide_border=true" alt="Most used languages"/>`{=html}
 
-A desktop calculator built using Java AWT, exploring graphical components, user input and event-driven programming.
+`<br/>`{=html}
 
-- Interactive calculator controls
-- Arithmetic operation handling
-- Java GUI components and event listeners
+`<img src="https://streak-stats.demolab.com?user=Priyanka170974&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak"/>`{=html}
+:::
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWT-GUI-6C63FF?style=flat-square"/>
-</p>
+## 🎓 Education & learning
 
-[↗ Source Code](https://github.com/Priyanka170974/AWT-Calculator)
+**Arya College of Engineering**\
+B.Tech --- Computer Science & Artificial Intelligence · Third Year
 
----
+**Certification:** NPTEL --- Introduction to Programming in C
 
-### ◈ Stopwatch
+**Currently working on** - Strengthening DSA and problem-solving
+fundamentals - Improving React and backend API design - Learning more
+about secure authentication and database design - Building complete
+frontend-to-backend workflows - Exploring practical AI integrations
 
-**Browser APIs · State management · Responsive UI**
+## 🤝 Let's connect
 
-A stopwatch web application focused on time tracking, lap recording and interactive controls.
-
-- Start, pause and reset controls
-- Lap tracking and history management
-- Responsive, themed interface
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-[↗ Live Application](https://priyanka170974.github.io/StopwatchWebiste/) · [↗ Source Code](https://github.com/Priyanka170974/StopwatchWebiste)
-
----
-
-## `04 / TECHNICAL TOOLKIT`
-
-<div align="center">
-
-| DOMAIN | TECHNOLOGIES |
-|---|---|
-| Languages | C · Java · JavaScript |
-| Frontend | HTML5 · CSS3 · React |
-| Backend | Node.js · Express.js · REST APIs |
-| Databases | MongoDB · MySQL |
-| Data Access | Mongoose |
-| Security | JWT · bcrypt · Role-based authorization |
-| Developer Tools | Git · GitHub · VS Code · IntelliJ IDEA |
-| Concepts in Progress | Data Structures · Algorithms · Operating Systems |
-
-</div>
-
----
-
-## `05 / HOW I APPROACH A SYSTEM`
-
-<div align="center">
-
-```text
-       PROBLEM
-          │
-          ▼
-   REQUIREMENTS
-          │
-          ▼
-   SYSTEM DESIGN
-          │
-          ▼
-   IMPLEMENTATION
-          │
-          ▼
-  TESTING & DEBUGGING
-          │
-          ▼
-     DEPLOYMENT
-          │
-          ▼
-     ITERATION
-```
-
-</div>
-
-When building a project, I try to understand the complete flow rather than focusing only on individual features.
-
-- **Frontend:** How does the user interact with the system?
-- **Backend:** How is each request validated and processed?
-- **Database:** How should application data be structured and stored?
-- **Security:** Which actions should each user be allowed to perform?
-- **Reliability:** What happens when an API fails or input is invalid?
-- **Deployment:** Can the application run outside the local development environment?
-
-These are the questions I want to get better at answering with every project.
-
----
-
-## `06 / GITHUB ACTIVITY`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyanka170974&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka170974&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Priyanka170974&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanka170974&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-## `07 / LEARNING TRACK`
-
-```text
-COMPUTER SCIENCE
-├── Programming Fundamentals
-│   ├── C
-│   └── Java & OOP
-├── Problem Solving
-│   └── Data Structures & Algorithms
-├── Web Engineering
-│   ├── HTML / CSS / JavaScript
-│   └── React
-├── Backend Engineering
-│   ├── Node.js / Express
-│   ├── REST APIs
-│   └── Authentication
-├── Data Management
-│   ├── MongoDB / Mongoose
-│   └── MySQL
-└── Emerging Interests
-    └── AI-powered Software Applications
-```
-
-### Current priorities
-
-- Strengthening data structures and problem-solving fundamentals
-- Improving React and backend API design
-- Understanding authentication, authorization and database design
-- Building projects with complete frontend-to-backend workflows
-- Exploring practical ways to integrate AI into software applications
-
----
-
-## `08 / EDUCATION`
-
-**Arya College of Engineering**  
-B.Tech — Computer Science & Artificial Intelligence  
-Third Year
-
-**Certification:** NPTEL — Introduction to Programming in C
-
----
-
-## `09 / CONNECT`
-
-I'm interested in software development, meaningful project work, internships and opportunities to learn from real engineering challenges.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/priyanka-jain-1b8978339">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/MCXH1ncUcC/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/Priyanka170974">
-<img src="https://img.shields.io/badge/GitHub-Projects%20%26%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:241447,100:00F5D4&height=140&section=footer" width="100%"/>
-
-### `THINK IN SYSTEMS. BUILD WITH PURPOSE.`
-
-**Curiosity → Code → Engineering → Impact**
-
-<sub>Thanks for exploring my developer profile.</sub>
-
-</div>
+I'm interested in meaningful software projects, internships,
+collaboration, and opportunities to learn from real engineering
+challenges.
+
+::: {align="center"}
+[![GitHub](https://img.shields.io/badge/GitHub-Projects%20%26%20Code-25143D?style=for-the-badge&logo=github)](https://github.com/Priyanka170974)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanka-jain-1b8978339)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/MCXH1ncUcC/)
+
+### `Curiosity → Code → Confidence → Impact`
+
+`<sub>`{=html}Thanks for stopping by. I'm learning, building, and
+getting better one project at a time.`</sub>`{=html}
+:::
