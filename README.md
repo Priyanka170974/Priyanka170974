@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050816,50:0B3D91,100:00F5FF&text=GITPULSE&fontColor=FFFFFF&fontSize=75&fontAlignY=45&animation=twinkling&stroke=00F5FF&strokeWidth=2&desc=YOUR%20CODE.%20YOUR%20PULSE.&descSize=17&descAlignY=65" width="100%" />
