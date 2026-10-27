@@ -1,46 +1,62 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050816,50:0B3D91,100:00F5FF&text=GITPULSE&fontColor=FFFFFF&fontSize=75&fontAlignY=45&animation=twinkling&stroke=00F5FF&strokeWidth=2&desc=YOUR%20CODE.%20YOUR%20PULSE.&descSize=17&descAlignY=65" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=650&lines=INITIALIZING+GITHUB+ANALYTICS...;TRACKING+REPOSITORY+ACTIVITY...;TURNING+CODE+INTO+INSIGHTS.;WELCOME+TO+GITPULSE+%2F%2F+SYSTEM+ONLINE" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:050816,45:101B4D,100:00F5FF&text=GITPULSE&fontSize=82&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&stroke=00F5FF&strokeWidth=2&desc=GITHUB%20ANALYTICS%20%2F%2F%20DEVELOPER%20INTELLIGENCE&descSize=14&descAlignY=62" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-GITPULSE-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" />
-<img src="https://img.shields.io/badge/PLATFORM-DEVELOPER_ANALYTICS-7B2CFF?style=for-the-badge&labelColor=050816" />
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-FFB000?style=for-the-badge&labelColor=050816" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+GITPULSE...;%3E+ANALYZING+REPOSITORY+ACTIVITY...;%3E+TRANSFORMING+DATA+INTO+INSIGHTS...;%3E+SYSTEM+ONLINE+%E2%9C%93" />
+
+<br/><br/>
+
+<a href="https://github.com/Priyanka170974/GitPulse">
+<img src="https://img.shields.io/badge/PROJECT-GITPULSE-00F5FF?style=for-the-badge&labelColor=050816" />
+</a>
+<img src="https://img.shields.io/badge/STACK-MERN-7B2CFF?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/FOCUS-GITHUB_ANALYTICS-00FF9C?style=for-the-badge&labelColor=050816" />
+
+<br/><br/>
+
+**A developer-focused dashboard to explore GitHub repositories, track activity, and turn coding data into useful insights.**
+
+<br/>
+
+[Explore Repository](https://github.com/Priyanka170974/GitPulse) • [Developer Profile](https://github.com/Priyanka170974)
 
 </div>
 
 ---
 
+<div align="center">
+
 ## `01 // SYSTEM OVERVIEW`
 
-> **GitPulse** is a GitHub analytics dashboard designed to transform repository activity into meaningful insights through a clean, data-driven interface.
+</div>
 
-Instead of jumping between repositories and activity pages, GitPulse brings important development information together in one place.
+GitPulse is a web-based GitHub analytics project that brings repository information and development activity into a centralized dashboard.
+
+The goal is simple: **make repository data easier to explore, understand, and visualize.**
 
 <table>
 <tr>
 <td width="50%">
 
-### ◈ REPOSITORY INSIGHTS
+### ◈ REPOSITORY ANALYTICS
 
 - Repository information
-- Language distribution
-- Commit activity
-- Contribution overview
+- Programming language distribution
+- Commit activity overview
+- Contribution information
 
 </td>
 <td width="50%">
 
-### ◈ DEVELOPER DASHBOARD
+### ◈ DEVELOPER EXPERIENCE
 
-- Centralized analytics
+- Centralized dashboard
 - User authentication
-- Organized data visualization
-- Repository activity tracking
+- Structured API integration
+- Data-driven visual interface
 
 </td>
 </tr>
@@ -48,53 +64,63 @@ Instead of jumping between repositories and activity pages, GitPulse brings impo
 
 ---
 
-## `02 // VISUAL INTERFACE`
+<div align="center">
+
+## `02 // DASHBOARD PREVIEW`
+
+</div>
 
 <div align="center">
 
-<img src="https://placehold.co/1000x480/050816/00F5FF?text=GITPULSE+%2F%2F+DASHBOARD+PREVIEW" width="100%" alt="GitPulse dashboard preview placeholder"/>
+<img width="100%" src="https://placehold.co/1100x520/050816/00F5FF?text=GITPULSE%20%2F%2F%20ADD%20YOUR%20DASHBOARD%20SCREENSHOT&font=roboto" alt="GitPulse dashboard preview placeholder" />
 
-<sub>Replace this placeholder with an actual screenshot of your GitPulse dashboard.</sub>
+<sub>Replace this image with a real screenshot of your project.</sub>
 
 </div>
 
 ---
 
+<div align="center">
+
 ## `03 // SYSTEM ARCHITECTURE`
 
-```mermaid
-flowchart TD
-    A["👤 Developer"] --> B["⚡ React + Vite"]
-    B --> C["🔐 Authentication"]
-    C --> D["🚀 Node.js + Express API"]
-    D --> E[("🍃 MongoDB Atlas")]
-    D --> F["🐙 GitHub API"]
-    E --> G["📊 Analytics Dashboard"]
-    F --> G
+</div>
 
-    style A fill:#101b35,stroke:#00f5ff,color:#ffffff
-    style B fill:#101b35,stroke:#00f5ff,color:#ffffff
-    style C fill:#24144a,stroke:#a855f7,color:#ffffff
-    style D fill:#101b35,stroke:#00f5ff,color:#ffffff
-    style E fill:#12372a,stroke:#00ff9c,color:#ffffff
-    style F fill:#24144a,stroke:#a855f7,color:#ffffff
-    style G fill:#101b35,stroke:#00f5ff,color:#ffffff
+```mermaid
+flowchart TB
+    U(["👤 Developer"])
+    FE["⚡ React + Vite Frontend"]
+    AUTH["🔐 Authentication Layer"]
+    API["🚀 Node.js + Express API"]
+    DB[("🍃 MongoDB Atlas")]
+    GH["🐙 GitHub REST API"]
+    DASH["📊 Analytics Dashboard"]
+
+    U --> FE
+    FE --> AUTH
+    AUTH --> API
+    API <--> DB
+    API <--> GH
+    DB --> DASH
+    GH --> DASH
+    FE --> DASH
+
+    style U fill:#101b35,stroke:#00f5ff,color:#ffffff
+    style FE fill:#101b35,stroke:#00f5ff,color:#ffffff
+    style AUTH fill:#24144a,stroke:#a855f7,color:#ffffff
+    style API fill:#101b35,stroke:#00f5ff,color:#ffffff
+    style DB fill:#12372a,stroke:#00ff9c,color:#ffffff
+    style GH fill:#24144a,stroke:#a855f7,color:#ffffff
+    style DASH fill:#101b35,stroke:#00f5ff,color:#ffffff
 ```
 
 ---
 
-## `04 // TECHNOLOGY MATRIX`
-
 <div align="center">
 
-| MODULE | TECHNOLOGY |
-|:---|:---|
-| `FRONTEND` | React · Vite · JavaScript |
-| `BACKEND` | Node.js · Express.js |
-| `DATABASE` | MongoDB Atlas · Mongoose |
-| `SECURITY` | JWT Authentication |
-| `DATA SOURCE` | GitHub REST API |
-| `VERSION CONTROL` | Git · GitHub |
+## `04 // TECHNOLOGY STACK`
+
+**BUILT WITH THE MERN ECOSYSTEM**
 
 <br/>
 
@@ -102,95 +128,144 @@ flowchart TD
 
 </div>
 
----
-
-## `05 // CORE FEATURES`
-
-<details>
-<summary><b>⚡ Repository Intelligence</b></summary>
-
-Explore repository details and organize useful development metrics in one dashboard.
-
-</details>
-
-<details>
-<summary><b>📊 Language & Activity Analytics</b></summary>
-
-Understand repository language distribution and available contribution or commit activity data.
-
-</details>
-
-<details>
-<summary><b>🔐 Authentication Layer</b></summary>
-
-JWT-based authentication helps protect user-specific dashboard features.
-
-</details>
-
-<details>
-<summary><b>🌐 GitHub API Integration</b></summary>
-
-Retrieve supported repository and activity information from GitHub's API.
-
-</details>
+| Layer | Technologies |
+|---|---|
+| Frontend | React, Vite, JavaScript |
+| Backend | Node.js, Express.js |
+| Database | MongoDB Atlas, Mongoose |
+| Authentication | JSON Web Tokens (JWT) |
+| Integration | GitHub REST API |
+| Development | Git, GitHub, VS Code |
 
 ---
+
+<div align="center">
+
+## `05 // FEATURE MODULES`
+
+</div>
+
+<details>
+<summary><b>⚡ Module 01 — Repository Intelligence</b></summary>
+
+View available repository details and organize useful development information in one place.
+
+</details>
+
+<details>
+<summary><b>📈 Module 02 — Language Analytics</b></summary>
+
+Explore programming language distribution for supported repositories.
+
+</details>
+
+<details>
+<summary><b>🔄 Module 03 — Activity Tracking</b></summary>
+
+Present available commit and contribution activity in a dashboard-friendly format.
+
+</details>
+
+<details>
+<summary><b>🔐 Module 04 — Authentication</b></summary>
+
+Use JWT-based authentication for protected user-specific functionality.
+
+</details>
+
+<details>
+<summary><b>🌐 Module 05 — GitHub API Integration</b></summary>
+
+Connect to GitHub's API to retrieve supported repository and activity data.
+
+</details>
+
+<details>
+<summary><b>🗄️ Module 06 — Data Management</b></summary>
+
+Use MongoDB and Mongoose for the application's configured data persistence.
+
+</details>
+
+---
+
+<div align="center">
 
 ## `06 // PROJECT LINKS`
 
-<div align="center">
-
 <a href="https://github.com/Priyanka170974/GitPulse">
-<img src="https://img.shields.io/badge/⌘_SOURCE_CODE-OPEN_REPOSITORY-00F5FF?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/⌘_VIEW_SOURCE_CODE-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" />
 </a>
 
 <a href="https://github.com/Priyanka170974">
-<img src="https://img.shields.io/badge/◈_DEVELOPER-GITHUB_PROFILE-7B2CFF?style=for-the-badge&labelColor=050816" />
+<img src="https://img.shields.io/badge/◈_DEVELOPER_PROFILE-7B2CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" />
 </a>
 
 </div>
 
 ---
 
-## `07 // DEVELOPER CONSOLE`
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanka170974&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9&icon_color=7B2CFF" height="165" />
+## `07 // DEVELOPER STATISTICS`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka170974&layout=compact&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9" height="165" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyanka170974&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9&icon_color=7B2CFF" />
 
-<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka170974&layout=compact&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9" />
 
-<img src="https://streak-stats.demolab.com?user=Priyanka170974&hide_border=true&background=050816&ring=00F5FF&fire=7B2CFF&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=778899" width="70%" />
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Priyanka170974&hide_border=true&background=050816&ring=00F5FF&fire=7B2CFF&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=778899" />
 
 </div>
 
 ---
 
-## `08 // EXECUTION LOG`
+<div align="center">
+
+## `08 // DEVELOPMENT LOG`
+
+</div>
 
 ```text
-[ OK ]  Frontend interface       React + Vite
-[ OK ]  Backend services         Node.js + Express
-[ OK ]  Data persistence         MongoDB + Mongoose
-[ OK ]  Authentication           JWT
-[ OK ]  External integration     GitHub API
-[ .. ]  Continuous improvements  IN PROGRESS
+╔════════════════════════════════════════════╗
+║           GITPULSE SYSTEM LOG              ║
+╠════════════════════════════════════════════╣
+║  MODULE    Frontend Interface              ║
+║  STACK     React + Vite                   ║
+║  MODULE    Backend API                    ║
+║  STACK     Node.js + Express              ║
+║  MODULE    Data Persistence               ║
+║  STACK     MongoDB + Mongoose             ║
+║  MODULE    Authentication                 ║
+║  STACK     JWT                            ║
+║  MODULE    Repository Data                ║
+║  SOURCE    GitHub REST API                ║
+╚════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F5FF,100:7B2CFF&section=footer" width="100%" />
+## `09 // THE DEVELOPER`
 
-### `BUILD • ANALYZE • IMPROVE`
+**Designed and developed by Priyanka Jain**
 
-<sub>GitPulse — turning repository activity into developer insights.</sub>
+<a href="https://github.com/Priyanka170974">
+<img src="https://img.shields.io/badge/GitHub-Priyanka170974-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" />
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Priyanka170974&style=flat-square&color=00F5FF&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:7B2CFF,100:00FF9C&section=footer" />
+
+### `BUILD. ANALYZE. IMPROVE.`
+
+<sub>GitPulse — turning repository activity into developer insights.</sub>
 
 </div>
