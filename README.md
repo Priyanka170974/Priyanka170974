@@ -52,7 +52,7 @@ Instead of jumping between repositories and activity pages, GitPulse brings impo
 
 <div align="center">
 
-<img src="https://placehold.co/1000x480/050816/00F5FF?text=GITPULSE+%2F%2F+DASHBOARD+PREVIEW&font=roboto" width="100%" alt="GitPulse dashboard preview placeholder"/>
+<img src="https://placehold.co/1000x480/050816/00F5FF?text=GITPULSE+%2F%2F+DASHBOARD+PREVIEW" width="100%" alt="GitPulse dashboard preview placeholder"/>
 
 <sub>Replace this placeholder with an actual screenshot of your GitPulse dashboard.</sub>
 
@@ -156,7 +156,7 @@ Retrieve supported repository and activity information from GitHub's API.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanka170974&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9&icon_color=7B2CFF&ring_color=00F5FF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanka170974&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9&icon_color=7B2CFF" height="165" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka170974&layout=compact&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9" height="165" />
 
@@ -194,4 +194,3 @@ Retrieve supported repository and activity information from GitHub's API.
 <img src="https://komarev.com/ghpvc/?username=Priyanka170974&style=flat-square&color=00F5FF&label=PROFILE+VIEWS" />
 
 </div>
-```
