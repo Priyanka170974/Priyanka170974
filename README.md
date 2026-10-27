@@ -1,156 +1,136 @@
-<div align="center">
-
-<h1 style="font-size: 3.5em; color: #00E5FF; font-weight: 900; letter-spacing: 0.1em; filter: drop-shadow(0 0 8px #00e5ffcc); font-family: 'Courier New', Courier, monospace;">
-  <code>GitPulse</code>
-</h1>
-
-<p style="font-size: 1.3em; color: #7c3aeddd; letter-spacing: 0.07em; font-family: 'Courier New', monospace;">
-  Your Code. Your Pulse.
-</p>
-
-<!-- Typing animation SVG embed -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=800&color=00E5FF&center=true&width=660&lines=Explore+repository+insights.;Visualize+GitHub+activity.;Understand+your+codebase+better." alt="Typing Animated Text" style="margin: 15px 0;" />
-
-<!-- Project technology badges -->
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#61dafb" alt="React Badge" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-</p>
-
-<p>
-  <a href="https://github.com/Priyanka170974/GitPulse" target="_blank" style="color:#00E5FF; font-weight: 600; font-family: monospace;">&#128187; Source Code</a>
-</p>
-
-</div>
 
 ---
 
-## 💾 TERMINAL::[PROJECT_OVERVIEW]
+## 👩‍💻 TERMINAL::[DEVELOPER_PROFILE]
 
-GitPulse answers one essential question for developers and teams:  
-**"How healthy and active is my GitHub repository?"**
+<div align="center" style="background-color:#0f172a; border-radius: 15px; padding: 20px 40px; box-shadow: 0 0 20px #00e5ffcc; max-width: 900px; margin: auto;">
 
-This dashboard dives deep into repository data — showing metadata, commit patterns, contributor statistics, and programming language breakdown —  
-all delivered through an elegant, responsive interface built for rapid insights and decision-making.
+<h2 style="color:#00E5FF; font-family: 'Courier New', monospace; letter-spacing: 0.1em; font-weight: 900;">
+  Priyanka Jain
+</h2>
 
-No more bouncing between GitHub pages or third-party tools.  
-GitPulse consolidates your repository’s pulse into one intelligent application, empowering you to understand your codebase at a glance.
-
----
-
-## 🖥️ TERMINAL::[DASHBOARD_PREVIEW]
-
-<div align="center">
-
-<!-- Placeholder for dashboard screenshot; replace with actual screenshot for best results -->
-<img src="https://via.placeholder.com/900x450/0f172a/6366f1?text=GitPulse+Dashboard+Preview" alt="GitPulse Dashboard Preview" width="900" style="border-radius: 15px; box-shadow: 0 0 20px #6366f1cc; margin: 15px 0;" />
-
-<p style="font-family: monospace; color: #94a3b8;">
-  Replace this placeholder below with an actual screenshot of GitPulse dashboard for true visual impact.
-</p>
-
-</div>
-
----
-
-## ⚙️ TERMINAL::[KEY_FEATURES]
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-<div style="background-color: #111c36; width: 260px; border-radius: 12px; box-shadow: 0 0 10px #00e5ffaa; padding: 25px; font-family: monospace; color: #a1aaf4;">
-  <h3 style="color: #00e5ff;">📈 Repository Insights</h3>
-  <p>Explore metadata including stars, forks, issues & pull requests for smart project assessment.</p>
-</div>
-
-<div style="background-color: #111c36; width: 260px; border-radius: 12px; box-shadow: 0 0 10px #7c3aedcc; padding: 25px; font-family: monospace; color: #b38ef9;">
-  <h3 style="color: #7c3aed;">🛠️ Language Analytics</h3>
-  <p>Visualize the programming language distribution across your repositories at a glance.</p>
-</div>
-
-<div style="background-color: #111c36; width: 260px; border-radius: 12px; box-shadow: 0 0 10px #00e5ffc9; padding: 25px; font-family: monospace; color: #7aeaf7;">
-  <h3 style="color: #00e5ff;">🔥 Commit & Activity Tracking</h3>
-  <p>Track commit history and contributor activity to understand project momentum.</p>
-</div>
-
-<div style="background-color: #111c36; width: 260px; border-radius: 12px; box-shadow: 0 0 10px #c366f7cc; padding: 25px; font-family: monospace; color: #bb99f7;">
-  <h3 style="color: #c366f7;">🔒 Secure Authentication</h3>
-  <p>JWT-powered user authentication for protected routes and private analytics.</p>
-</div>
-
-<div style="background-color: #111c36; width: 260px; border-radius: 12px; box-shadow: 0 0 10px #00e5ffc9; padding: 25px; font-family: monospace; color: #7aeaf7;">
-  <h3 style="color: #00e5ff;">🌐 GitHub API Integration</h3>
-  <p>Reliable REST API connections to dynamically fetch repository data in real-time.</p>
-</div>
-
-<div style="background-color: #111c36; width: 260px; border-radius: 12px; box-shadow: 0 0 10px #7c3aedcc; padding: 25px; font-family: monospace; color: #b38ef9;">
-  <h3 style="color: #7c3aed;">📱 Responsive Design</h3>
-  <p>Optimized visuals and usability across devices — desktop and mobile supported.</p>
-</div>
-
-</div>
-
----
-
-## 🛠️ TERMINAL::[TECHNOLOGY_STACK]
-
-### Frontend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" alt="React" /> React &nbsp;&nbsp;
-  <img src="https://vitejs.dev/logo.svg" width="28" height="28" alt="Vite" style="vertical-align: middle;" /> Vite
-</p>
-
-### Backend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js" /> Node.js &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="28" height="28" alt="Express" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="28" height="28" alt="MongoDB" /> MongoDB Atlas & Mongoose
-</p>
-
-### Authentication & API
-
-<p>
-  <img src="https://img.icons8.com/color/48/000000/json-web-token.png" width="28" height="28" alt="JWT" style="vertical-align: middle;" /> JWT Authentication &nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="28" height="28" alt="GitHub API" /> GitHub REST API
-</p>
-
-### Developer Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git" /> Git &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28" height="28" alt="GitHub" /> GitHub &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code" />
+<p style="color:#94a3b8; font-family: monospace; font-size: 1.1em; margin: 4px 0 20px;">
+  B.Tech Computer Science & Artificial Intelligence — 3rd Year<br />
+  Arya College of Engineering<br />
+  Interests: Full-Stack Development | Frontend | Data Structures & Algorithms | Artificial Intelligence
 </p>
 
 ---
 
-## 🗂️ TERMINAL::[SYSTEM_ARCHITECTURE]
+### 🔗 Connect & Explore Code
 
-```mermaid
-flowchart LR
-    USER([User]) -->|Accesses| FE[React Frontend]
-    FE -->|REST API Calls| API[Express Backend]
-    API --> DB[(MongoDB Atlas)]
-    API --> GITHUB[GitHub REST API]
-    API --> AUTH[JWT Authentication]
-    DB --> API
-    API --> FE
-    GITHUB --> API
+<p>
+  <a href="https://github.com/Priyanka170974" target="_blank" style="text-decoration:none; margin-right: 10px;">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Priyanka170974/GitPulse" target="_blank" style="text-decoration:none; margin-right: 10px;">
+    <img alt="GitPulse" src="https://img.shields.io/badge/GitPulse-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyanka-jain-1b8978339/" target="_blank" style="text-decoration:none; margin-right: 10px;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/MCXH1ncUcC/" target="_blank" style="text-decoration:none; margin-right: 10px;">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-    style USER fill:#172554,stroke:#00E5FF,color:#00E5FF,font-weight:bold
-    style FE fill:#164e63,stroke:#6366F1,color:#00E5FF,font-weight:bold
-    style API fill:#312e81,stroke:#7c3aed,color:#94a3b8
-    style DB fill:#14532d,stroke:#47A248,color:#94a3b8
-    style GITHUB fill:#181717,stroke:#00E5FF,color:#7aeaf7,font-weight:bold
-    style AUTH fill:#3b0063,stroke:#cc99ff,color:#d3bfff,font-style:italic
+---
+
+### 🛠️ Technical Proficiencies
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<p style="color:#94a3b8; font-family: monospace; margin-top: 10px; font-size: 0.9em;">
+  Core Learning Areas: Data Structures & Algorithms | Full-Stack Development | Artificial Intelligence
+</p>
+
+---
+
+### 📁 Featured Projects
+
+<table style="width:100%; color:#baccff; font-family: monospace; border-collapse: collapse;">
+  <thead>
+    <tr style="border-bottom: 1px solid #6366f1;">
+      <th style="text-align: left; padding: 8px;">Project</th>
+      <th style="text-align: left; padding: 8px;">Description</th>
+      <th style="text-align: left; padding: 8px;">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #374151;">
+      <td style="padding: 8px; color:#00E5FF;">GitPulse</td>
+      <td style="padding: 8px;">Full-stack GitHub repository analytics dashboard.</td>
+      <td style="padding: 8px;"><a href="https://github.com/Priyanka170974/GitPulse" target="_blank" style="color:#7c3aed;">Repository</a></td>
+    </tr>
+    <tr style="border-bottom: 1px solid #374151;">
+      <td style="padding: 8px; color:#7c3aed;">EventFlow</td>
+      <td style="padding: 8px;">Event registration and smart check-in platform.</td>
+      <td style="padding: 8px;"><a href="https://github.com/Priyanka170974/Event-Registration-Smart-Checkin" target="_blank" style="color:#00E5FF;">Repository</a></td>
+    </tr>
+    <tr style="border-bottom: 1px solid #374151;">
+      <td style="padding: 8px; color:#00E5FF;">Code-Master-Quiz</td>
+      <td style="padding: 8px;">Interactive programming quiz website.</td>
+      <td style="padding: 8px;">
+        <a href="https://github.com/Priyanka170974/Code-Master-Quiz" target="_blank" style="color:#7c3aed;">Repository</a> | 
+        <a href="https://priyanka170974.github.io/Code-Master-Quiz/" target="_blank" style="color:#7c3aed;">Live Demo</a>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #374151;">
+      <td style="padding: 8px; color:#7c3aed;">AWT Calculator</td>
+      <td style="padding: 8px;">Java desktop calculator application.</td>
+      <td style="padding: 8px;">
+        <a href="https://github.com/Priyanka170974/AWT-Calculator" target="_blank" style="color:#00E5FF;">Repository</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; color:#00E5FF;">Stopwatch Website</td>
+      <td style="padding: 8px;">Browser-based JavaScript stopwatch project.</td>
+      <td style="padding: 8px;">
+        <a href="https://github.com/Priyanka170974/StopwatchWebiste" target="_blank" style="color:#7c3aed;">Repository</a> | 
+        <a href="https://priyanka170974.github.io/StopwatchWebiste/" target="_blank" style="color:#7c3aed;">Live Demo</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📈 GitHub & LeetCode Activity
+
+<div align="center" style="margin-top: 20px;">
+
+<!-- GitHub stats -->
+<a href="https://github.com/Priyanka170974" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanka170974&show_icons=true&theme=dark&title_color=00E5FF&icon_color=00E5FF&text_color=94A3B8&border_color=6366F1" alt="Priyanka's GitHub Stats" height="160" style="margin: 0 10px;" />
+</a>
+
+<!-- GitHub top languages -->
+<a href="https://github.com/Priyanka170974" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka170974&layout=compact&theme=dark&title_color=00E5FF&text_color=94A3B8&border_color=6366F1" alt="Priyanka's Top Languages" height="160" style="margin: 0 10px;" />
+</a>
+
+</div>
+
+<p align="center" style="margin-top: 15px; font-family: monospace; color:#94a3b8; font-size: 0.95em;">
+  • Visit my <a href="https://leetcode.com/u/MCXH1ncUcC/" target="_blank" style="color:#7c3aed;">LeetCode</a> profile for algorithm challenge practice statistics.<br/>
+  • These stats reflect my overall GitHub and LeetCode activity, not GitPulse data exclusively.
+</p>
+
+---
+```
